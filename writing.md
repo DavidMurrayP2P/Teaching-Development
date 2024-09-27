@@ -1,17 +1,19 @@
+#Writing
 My students often ask about how a writing task should be completed, particularly with regard to the structure and style. You will be judged on the clarity of your writing throughout life so you must work on this skillset continuously if you want your ideas and thoughts to be taken seriously. Good writing is often a result of clear thinking, but many use writing to improve the clarity of their thinking. Tim Ferriss condenses down quite a few ideas in the following video on How to Use Writing to Sharpen Your Thinking. There is a summary of Jordan Peterson's thoughts on writing also. The following are my recommendations, with most of the ideas rehashed from Strunk and White's, The Elements of Style [1]. If you need some added motivation on why you should hone these skills then please see this.
 
-Writing well
+##Writing well
 Strunk and White's, The Elements of Style [1], has stood the test of time as being a great book to improve your writing. If you do not have a copy, please borrow one from a library or consider buying one. It is not long, but I feel it is an indispensable guide for anyone. If you have not read this book and are a technical IT person, you may prejudge an English language style guide to be pretentious and complex but I have highlighted some excerpts below which should show you that this is not the case. Please obtain and read the entire book.
 
 If you want the e-book, it is available from Amazon The Elements of Style. Be prepared for the best 67 cents you have spent in your life!
 
 Omit needless words
-<TEXT>
+```
 "Vigorous writing is concise. A sentence should contain no unnecessary
 words, a paragraph no unnecessary sentences, for the same reason that a
 drawing should have no unnecessary lines and a machine no unnecessary
 parts. This requires not that the writer make all sentences short or avoid all
 detail and treat subjects only in outline, but that every word tell." [1]
+```
 This rule really benefits from some examples of common mistakes followed by the corrections. Below are again, some examples from Strunk and White. So again, omit needless words.
 
 <TEXT>
