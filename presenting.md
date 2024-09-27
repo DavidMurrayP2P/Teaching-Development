@@ -2,7 +2,9 @@
 
 The first thing to address is why you should give time and care to craft the skill of speaking to an audience. I think the following quote summarises it well; Winston Churchill was certainly a great pubic speaker:
 
-``` Of all the talents bestowed upon men, none is so precious as the gift of oratory. He who enjoys it wields a power more durable than that of a great king. He is an independent force in the world. Abandoned by his party, betrayed by his friends, stripped of his offices, whoever can command this power is still formidable. Many have watched its effects. W. Churchill ```
+```
+Of all the talents bestowed upon men, none is so precious as the gift of oratory. He who enjoys it wields a power more durable than that of a great king. He is an independent force in the world. Abandoned by his party, betrayed by his friends, stripped of his offices, whoever can command this power is still formidable. Many have watched its effects. W. Churchill
+```
 
 The aspect that I disagree with is that I don't think public speaking is a "Talent", as that word suggests that it is something that we are born with/without. I strongly believe that this is just another skill that is developed to differing levels. 
 
