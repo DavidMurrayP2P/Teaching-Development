@@ -1,4 +1,4 @@
-# Presenting
+Man# Presenting
 
 The first thing to address is why you should give time and care to craft the skill of speaking to an audience. I think the following quote summarises it well; Winston Churchill was certainly a great pubic speaker:
 
