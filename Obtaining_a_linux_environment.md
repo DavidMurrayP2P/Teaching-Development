@@ -1,6 +1,5 @@
 [[File:windows_running_ubuntu.jpg|right|thumb|x300px|alt#Windows running Ubuntu| Windows running Ubuntu]]
 [[File:ubuntu_running_windows.jpg|right|thumb|x300px|alt#Ubuntu running Windows| Ubuntu running Windows]]
-[[File:iot.png|right|thumb|x300px|alt#Ubuntu Server Cli| Ubuntu Server Cli]]
 
 This lab is designed to get you up and running in a Linux environment as quickly as possible. In this week the goal is to get the Linux environment on your Windows or OSX operating system running on the computer sitting in front of you. Internal South St students are encouraged to do this in the labs, and then go home and re-do the task on their own computer. External students, as well as Singapore and Dubai-based students, will complete this on their own computers in class.
 
